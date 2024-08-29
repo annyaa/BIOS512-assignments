@@ -6,4 +6,7 @@
 2. item 2
 3. item 3
 
+- this is how
+- you format lists
+
 >block quote here
